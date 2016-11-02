@@ -32,6 +32,7 @@
 
         <!-- Names the annotated entity class -->
         <!-- FIXME: add annotated entity classes -->
+        <!-- <mapping class="myclass"/> -->
     </session-factory>
 
 </hibernate-configuration>
